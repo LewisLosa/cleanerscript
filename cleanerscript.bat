@@ -45,6 +45,6 @@ cls
 echo Temizlik tamamlandi.
 echo Burayi Kapatabilirsiniz
 echo Cmd 3 Saniye Sonra Kapatilacaktir.
-echo Yapimci = losa
+echo Yapimci = lewislosa
 @timeout /t 3 /nobreak>nul
 taskkill /f /im "cmd.exe"
