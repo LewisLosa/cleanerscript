@@ -11,4 +11,4 @@ After :
 
 ![Alt Text](https://cdn.discordapp.com/attachments/924759731522904074/953315282963816468/unknown.png)
 
-İnstallation: https://www.youtube.com/watch?v=auTMYwjaFK8
+Installation: https://www.youtube.com/watch?v=auTMYwjaFK8
